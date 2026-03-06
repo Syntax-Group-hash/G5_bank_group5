@@ -7,8 +7,8 @@
   <body>
     <h1>Welcome to G5 Bank System</h1>
 
-    <a href="login.html">Login</a><br />
-    <a href="register.html">Register</a><br />
-    <a href="dashboard.html">Dashboard</a>
+    <a href="login.php">Login</a><br />
+    <a href="register.php">Register</a><br />
+    <a href="dashboard.php">Dashboard</a>
   </body>
 </html>
